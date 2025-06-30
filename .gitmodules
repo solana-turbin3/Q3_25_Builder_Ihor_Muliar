@@ -1,0 +1,7 @@
+[submodule "ts-task"]
+	path = ts-task
+	url = git@github.com:IhorMuliar/turbin3_builders_cohort_ts_task.git
+
+[submodule "rs-task"]
+	path = rs-task
+	url = git@github.com:IhorMuliar/turbin3_builders_cohort_rs_task.git
