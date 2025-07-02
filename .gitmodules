@@ -11,3 +11,6 @@
 [submodule "turbin3_builders_cohort_rs_task"]
 	path = turbin3_builders_cohort_rs_task
 	url = git@github.com:IhorMuliar/turbin3_builders_cohort_rs_task.git
+[submodule "solana-starter"]
+	path = solana-starter
+	url = git@github.com:IhorMuliar/solana-starter.git
