@@ -17,3 +17,6 @@
 [submodule "anchor-vault"]
 	path = anchor-vault
 	url = git@github.com:IhorMuliar/anchor-vault
+[submodule "anchor-escrow"]
+	path = anchor-escrow
+	url = https://github.com/IhorMuliar/anchor-escrow.git
