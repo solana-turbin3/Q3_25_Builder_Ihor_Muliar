@@ -20,3 +20,6 @@
 [submodule "anchor-escrow"]
 	path = anchor-escrow
 	url = https://github.com/IhorMuliar/anchor-escrow.git
+[submodule "anchor-amm"]
+	path = anchor-amm
+	url = https://github.com/IhorMuliar/anchor-amm
