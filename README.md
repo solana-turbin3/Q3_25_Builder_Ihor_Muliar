@@ -14,12 +14,10 @@ Full-stack blockchain developer transitioning from **web2** → **web3**.
 
 ### 📡 **Connect**
 
-```bash
 github    → [@IhorMuliar](https://github.com/IhorMuliar)
 twitter   → [@muliark](https://x.com/muliark)
-email     → ihor.muliar.work@gmail.com
+email     → <ihor.muliar.work@gmail.com>
 linkedin  → [linkedin.com/in/ihor-muliar](https://www.linkedin.com/in/ihor-muliar/)
-```
 
 ---
 
