@@ -26,3 +26,6 @@
 [submodule "anchor-nft-marketplace"]
 	path = anchor-nft-marketplace
 	url = https://github.com/IhorMuliar/anchor-nft-marketplace.git
+[submodule "anchor-nft-staking"]
+	path = anchor-nft-staking
+	url = https://github.com/IhorMuliar/anchor-nft-staking.git
