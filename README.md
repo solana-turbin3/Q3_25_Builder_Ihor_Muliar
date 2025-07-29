@@ -1,6 +1,6 @@
 # ⚡ Q3_25_Builder_Ihor_Muliar
 
-## 🛠️ **Ihor**
+## **Ihor**
 
 Full-stack blockchain developer transitioning from **web2** → **web3**.
 
@@ -30,8 +30,8 @@ linkedin  → [linkedin.com/in/ihor-muliar](https://www.linkedin.com/in/ihor-mul
 - **NFT Mint & Metadata** → Full pipeline with Arweave integration
 - **Vault System** → PDA-based fund management with rent recovery
 - **Escrow Program** → Three-instruction trading mechanism
-- **AMM Implementation** → Automated market maker (in progress)
-- **NFT Staking** → Point accrual system with freeze mechanics (in progress)
+- **AMM Implementation** → Automated market maker
+- **NFT Staking** → Point accrual system with freeze mechanics
 
 ---
 
