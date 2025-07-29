@@ -31,6 +31,7 @@ linkedin  → [linkedin.com/in/ihor-muliar](https://www.linkedin.com/in/ihor-mul
 - **Vault System** → PDA-based fund management with rent recovery
 - **Escrow Program** → Three-instruction trading mechanism
 - **AMM Implementation** → Automated market maker
+- **NFT MarketPLace** → Listing, buying, and selling NFTs
 - **NFT Staking** → Point accrual system with freeze mechanics
 
 ---
