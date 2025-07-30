@@ -29,3 +29,6 @@
 [submodule "anchor-nft-staking"]
 	path = anchor-nft-staking
 	url = https://github.com/IhorMuliar/anchor-nft-staking.git
+[submodule "Q3_25_Builder_Capstone"]
+	path = Q3_25_Builder_Capstone
+	url = https://github.com/IhorMuliar/Q3_25_Builder_Capstone
